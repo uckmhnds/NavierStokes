@@ -1,0 +1,2749 @@
+VARIABLES= "x","y","Mach","Temp","Pressure","Rho","u", "v" ZONE N=948 E= 1800 F=FEPOINT  ET=triangle
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	-0	nan	-0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	nan	nan	nan	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	nan	0	nan	0	nan	nan
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0
+0	0	0

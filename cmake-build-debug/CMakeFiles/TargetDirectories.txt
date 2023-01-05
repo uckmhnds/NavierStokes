@@ -1,0 +1,3 @@
+/Users/abdurrahmangaziyavuz/CLion/NavierStokes/cmake-build-debug/CMakeFiles/NavierStokes.dir
+/Users/abdurrahmangaziyavuz/CLion/NavierStokes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/abdurrahmangaziyavuz/CLion/NavierStokes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
